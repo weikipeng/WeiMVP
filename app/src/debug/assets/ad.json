@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  },
+  "objects": [
+    {
+      "ad_type": 5,
+      "can_webview_nav": false,
+      "end_time": "2017-10-25T16:40:20",
+      "id": 142,
+      "image": "https://static-dev.jzb.com/advertising/274921859c31437a9d635490a31fa978.png",
+      "resource_uri": "/api/v1/advertising/142/",
+      "title": "真心话",
+      "uri": "com.eduu.anonymous",
+      "uri_type": 0
+    },
+    {
+      "ad_type": 8,
+      "can_webview_nav": false,
+      "end_time": "2017-12-04T14:59:28",
+      "id": 213,
+      "image": "https://static-dev.jzb.com/advertising/563142c0951744728f3c42ea85a4dccc.jpg",
+      "resource_uri": "/api/v1/advertising/213/",
+      "title": "幼儿园跳转地址",
+      "uri": "https://api-dev.jzb.com/mapi/nursery/1000/?type=school&schoolID=251028",
+      "uri_type": 1
+    },
+    {
+      "ad_type": 8,
+      "can_webview_nav": false,
+      "end_time": "2017-12-31T15:30:00",
+      "id": 236,
+      "image": "https://static-dev.jzb.com/advertising/8ff960efdf0b4abd8b282c9e68610101.jpg",
+      "resource_uri": "/api/v1/advertising/236/",
+      "title": "真心话话题列表页",
+      "uri": "https://secret-dev.jzb.com/secretz/topic/share/437/",
+      "uri_type": 1
+    },
+    {
+      "ad_type": 11,
+      "can_webview_nav": false,
+      "end_time": "2016-02-29T15:15:27",
+      "id": 92,
+      "image": "http://static-dev.jzb.com/advertising/d0065b851cb942bcbe84a07031fced69.jpg",
+      "resource_uri": "/api/v1/advertising/92/",
+      "title": "学堂广告",
+      "uri": "https://www.baidu.com/",
+      "uri_type": 1
+    },
+    {
+      "ad_type": 11,
+      "can_webview_nav": false,
+      "end_time": "2016-02-29T15:15:34",
+      "id": 93,
+      "image": "http://static-dev.jzb.com/advertising/8fbbe0d4546b48f081550731a9df295c.jpg",
+      "resource_uri": "/api/v1/advertising/93/",
+      "title": "学堂太极",
+      "uri": "http://www.zimuzu.tv/",
+      "uri_type": 2
+    },
+    {
+      "ad_type": 15,
+      "can_webview_nav": false,
+      "end_time": "2017-08-24T11:07:26",
+      "id": 253,
+      "image": "https://static-dev.jzb.com/advertising/da813c4c14b24f7d9137da6a85b98c50.jpg",
+      "resource_uri": "/api/v1/advertising/253/",
+      "title": "恶趣味群无去",
+      "uri": "https://www.baidu.com/",
+      "uri_type": 1
+    },
+    {
+      "ad_type": 17,
+      "can_webview_nav": false,
+      "end_time": "2017-08-25T10:30:54",
+      "id": 252,
+      "image": null,
+      "resource_uri": "/api/v1/advertising/252/",
+      "title": "as大赛奥迪",
+      "uri": "https://www.baidu.com/",
+      "uri_type": 1
+    }
+  ]
+}

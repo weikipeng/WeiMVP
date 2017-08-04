@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "limit": 20,
+    "offset": 0
+  },
+  "objects": [
+    {
+      "ad_type": 2,
+      "forum_uri": "",
+      "title": "AD1",
+      "image": "https://static-dev.jzb.com/topad/66a4fabec5614b40972f25966de59787.jpg",
+      "pos": 31,
+      "uri": "http://jzb.com",
+      "intro": "ad1 desc",
+      "forum_title": "",
+      "id": 1,
+      "uri_type": 1
+    }
+  ]
+}
